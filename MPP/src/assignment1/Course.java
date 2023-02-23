@@ -10,6 +10,8 @@ public class Course {
       this.title = title;
       this.units = units;
 
+      
+      
    }
 
    public String getNumber() {
